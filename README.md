@@ -19,11 +19,11 @@ events, conditional rendering, and array mapping.
 
 ## How to Run
 
-1. Clone the repo:
+1. Clone the repository:
    ```bash
    git clone https://github.com/brendanbobryk/corgi-memory-match.git
 
-2. Navigate into the project folder:
+2. Navigate to the project folder:
     ```bash
     cd corgi-memory-match
 
@@ -35,7 +35,7 @@ events, conditional rendering, and array mapping.
     ```bash
     npm run dev
 
-5. Open your browser at http://localhost:5173 to play!
+5. Open your browser at the local address shown in the terminal (usually http://localhost:5173) to play!
 
 ## License
 
